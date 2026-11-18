@@ -2,6 +2,23 @@
   font-family: "Roboto", serif;
 }
 
-p {
-  color: purple;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.header {
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
 }
