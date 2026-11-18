@@ -1,8 +1,10 @@
 # foundations-flexbox-landing-page
+
 The Odin Project - Foundations, Flexbox, Landing Page project
+
 1. Some fonts, colors and sizes are as follows (feel free to use your own if you wish):
-Font: Roboto (you will need to download and install this font if you don’t already have it)
-Dark background color (header, hero section and footer): #1F2937
+   Font: Roboto (you will need to download and install this font if you don’t already have it)
+   Dark background color (header, hero section and footer): #1F2937
 
 Logo text:
 Font size: 24px
