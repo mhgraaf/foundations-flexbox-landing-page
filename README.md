@@ -31,7 +31,6 @@ Background color: #E5E7EB
 Font size: 36px
 Color: #1F2937
 Weight: 300
-
 Font style: italic
 
 2. There are many ways to tackle a project like this, and it can be overwhelming to look at a blank HTML document and not know where to start. Our suggestion: take it one section at a time. The website you’re creating has 4 main sections (and a footer), so pick one and get it into pretty good shape before moving on. Starting at the top is always a solid plan.

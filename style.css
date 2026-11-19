@@ -87,6 +87,7 @@ h3 {
   align-items: center;
   text-align: center;
   width: 200px;
+  margin-bottom: 50px;
 }
 
 .pic {
@@ -95,4 +96,20 @@ h3 {
   width: 200px;
   height: 200px;
   margin-bottom: 15px;
+}
+
+.pull-quote {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+  padding: 100px;
+}
+
+.attribution {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: right;
+  margin-top: 10px;
 }
