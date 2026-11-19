@@ -77,10 +77,22 @@ h3 {
 .carousel {
   display: flex;
   flex-flow: row wrap;
-  gap: 20px;
+  justify-content: center;
+  gap: 75px;
 }
 
 .pic-and-text {
   display: flex;
-  flex-flow: column nowrap;
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+}
+
+.pic {
+  border: 3px solid #3882f6;
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 15px;
 }
