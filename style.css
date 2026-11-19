@@ -142,4 +142,15 @@ h3 {
   align-self: center;
   padding: 10px 50px 10px 50px;
   font-size: 18px;
+  border: 3px solid white;
+  border-radius: 10px;
+  color: white;
+  background-color: #3882f6;
+}
+
+.footer {
+  color: white;
+  background-color: #1f2937;
+  text-align: center;
+  padding: 40px;
 }
